@@ -1,0 +1,24 @@
+{
+  "name": "@anirudhsanthosh/first_package",
+  "version": "1.0.0",
+  "description": "Package for learn how to publish packages to npm ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudhsanthosh/first_npm_package.git"
+  },
+  "keywords": [
+    "learning",
+    "package"
+  ],
+  "author": "Anirudh VS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anirudhsanthosh/first_npm_package/issues"
+  },
+  "homepage": "https://github.com/anirudhsanthosh/first_npm_package#readme"
+}
