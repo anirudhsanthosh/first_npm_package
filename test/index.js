@@ -1,3 +1,3 @@
-import { isString } from "@anirudh/first_package";
+import { isString } from "@anirudhsanthosh/first_package";
 
 console.log(isString("sdasdkjasdhkjshdkjad"));
